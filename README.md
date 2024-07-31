@@ -4,9 +4,9 @@ I'm Brandon - a Computer Science student at Western Governors University who lov
 
 ## Technical Skills
 
-- **Languages:** Python, Java, Go, Javascript, Typescript
-- **Frameworks & Libraries:** Angular, SpringBoot, Flask
-- **Tools & Platforms:** GitHub, GitLab
+- **Languages:** Python, Java, Go, Javascript, Typescript, SQL, HTML, CSS
+- **Frameworks & Libraries:** Angular, SpringBoot, Flask, BubbleTea
+- **Tools & Platforms:** GitHub, GitLab, NeoVim, LaTeX, MatLab
 
 ## Projects
 
